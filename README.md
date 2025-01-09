@@ -1,7 +1,7 @@
 **RGB led project**
 
 ## À propos
-Ici il s'agit d'un petit projet d'initiation à Arduino et aux concepts d'IoT. Ici, j'ai pu explorer les possibilités qu'offre le microcontrôleur et ceci avec l'allumage 
+Ici il s'agit d'un petit projet d'initiation à Arduino et aux concepts de système embarqué. Ici, j'ai pu explorer les possibilités qu'offre le microcontrôleur et ceci avec l'allumage 
 de LED(de différentes couleures). J'ai également pu mettre en application des concepts d'électronique avec les raccordements des breadbords Jumper Wire et 
 la mise en place des resistances et leur rôle auprès des LED.
 
